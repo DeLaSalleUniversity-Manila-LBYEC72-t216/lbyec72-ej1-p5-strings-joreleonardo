@@ -8,3 +8,6 @@ VIEW 1
 SEARCH 1
 *0=not done, 1=done
 
+![](Capture.JPG)
+![](Capture3.JPG)
+![](Capture4.JPG)
