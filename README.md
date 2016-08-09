@@ -25,7 +25,7 @@ STRUCT
 
 ![](Capture3struct.JPG)
 
-![](Capture4truct.JPG)
+![](Capture4struct.JPG)
 
 ![](Capture5struct.JPG)
 
