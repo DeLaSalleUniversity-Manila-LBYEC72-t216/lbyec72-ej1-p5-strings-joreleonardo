@@ -16,3 +16,27 @@ INITIAL STRINGS WERE HARD-CODED IN THE PROGRAM;
 ![](Capture6.JPG)
 
 ![](Capture7.JPG)
+
+STRUCT
+
+![](Capture1struct.JPG)
+
+![](Capture2struct.JPG)
+
+![](Capture3struct.JPG)
+
+![](Capture14truct.JPG)
+
+![](Capture5struct.JPG)
+
+![](Capture6struct.JPG)
+
+![](Capture7struct.JPG)
+
+![](Capture7astruct.JPG)
+
+![](Capture7bstruct.JPG)
+
+![](Capture7cstruct.JPG)
+
+![](Capture8struct.JPG)
